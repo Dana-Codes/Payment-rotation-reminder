@@ -1,0 +1,13 @@
+/* Sweeper.css */
+.bg-image {
+	background-image: url('./assets/2home.png'); /* Replace 'background.jpg' with your image file */
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh; /* Set the height to cover the entire screen */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+  }
+  
